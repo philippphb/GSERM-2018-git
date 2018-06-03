@@ -1,5 +1,3 @@
-# GSERM-2018-git
-
 # Longitudinal Data Analysis
 
 This is the Github repository for the June 2018 GSERM course on Longitudinal Data Analysis.
@@ -43,9 +41,9 @@ Day 5:
 
 Two required readings:
 
-?	Box-Steffensmeier, Janet M., and Bradford S. Jones.  2004. Event History Modeling: A Guide for Social Scientists. New York: Cambridge University Press. 
+- Box-Steffensmeier, Janet M., and Bradford S. Jones.  2004. Event History Modeling: A Guide for Social Scientists. New York: Cambridge University Press. 
 
-?	Hsaio, Cheng. 2003. Analysis of Panel Data. New York: Cambridge University Press.
+- Hsaio, Cheng. 2003. Analysis of Panel Data. New York: Cambridge University Press.
 
 Additional readings will also be assigned as necessary, all of which will be available on github and/or through JSTOR. A full syllabus will be available shortly.
 
