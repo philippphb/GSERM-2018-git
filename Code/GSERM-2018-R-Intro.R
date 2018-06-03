@@ -1,11 +1,11 @@
 ##############################################
-# This is some code for GSERM - Oslo
-# designed to provide a basic 
+# This is some code for GSERM - St. Gallen
+# (2018) designed to provide a basic 
 # introduction to the R language.
 #
 # File created January 16, 2018 
 #
-# File last updated January 16, 2018
+# File last updated June 2, 2018
 ###############################################
 #
 # Basics: OBJECTS
@@ -136,7 +136,7 @@ View(VB)
 # menu option above, or by using "setwd". So, 
 # for example:
 
-setwd("~/Dropbox (Personal)/GSERM/Materials - Oslo 2018/Notes And Slides")
+setwd("~/Dropbox (Personal)/GSERM/Materials 2018/Notes And Slides")
 
 # Reading the data is then easy:
 
@@ -173,7 +173,7 @@ library(RCurl)
 # This is the part that actually gets 
 # the data:
 
-url <- getURL("https://raw.githubusercontent.com/PrisonRodeo/GSERM-Oslo-2018-git/master/Data/SCOTUS-votes.csv")
+url <- getURL("https://raw.githubusercontent.com/PrisonRodeo/GSERM-2018-git/master/Data/SCOTUS-votes.csv")
 SCOTUS <- read.csv(text = url)
 rm(url) # clean up
 
